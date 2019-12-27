@@ -1,0 +1,4 @@
+// La commande uniq enleve seulement les lignes similaire consecutive (sort)
+cat data.txt | sort | uniq -u
+
+UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
