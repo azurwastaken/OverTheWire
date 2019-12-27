@@ -1,0 +1,12 @@
+netcat -lp 1234
+Ctrl + Z
+./suconnect 1234
+Ctrl + Z
+fg 1
+GbKksEFF4yrVs6il55v6gwY5aVje5f0j
+Ctrl + Z
+fg 2
+fg 1
+
+
+gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr
