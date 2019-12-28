@@ -1,0 +1,6 @@
+cd /tmp
+ln -s /etc/leviathan_pass/leviathan6 file.log
+cd
+./leviathan5
+
+UgaoFee4li

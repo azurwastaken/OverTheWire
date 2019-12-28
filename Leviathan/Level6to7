@@ -1,0 +1,15 @@
+the binary require a 4 digit script
+go in a tmp folder
+create a bruteforce.sh:
+
+for i in {0000..9999}
+do
+    ~/leviathan6 $i
+done
+
+bash bruteforce.sh
+//It takes several seconds
+
+
+
+ahy7MaeBo9
