@@ -1,0 +1,6 @@
+git clone ssh://bandit30-git@localhost/home/bandit30-git/repo
+cd repo
+git tag
+git show secret
+
+47e603bb428404d265f59c42920d81e5

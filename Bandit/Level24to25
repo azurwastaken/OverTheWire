@@ -1,0 +1,10 @@
+create a script.sh :
+
+for i in {1..10000}
+do
+    echo "dUoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ" $i > out
+done
+
+cat out | nc localhost 30002
+
+uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG

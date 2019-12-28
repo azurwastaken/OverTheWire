@@ -1,0 +1,5 @@
+git clone ssh://bandit28-git@localhost/home/bandit28-git/repo
+cd repo
+git checkout -b test 186a1038cc54d1358d42d468cdc8e3cc28a93fcb 
+
+bbc96594b4e001778eee9975372716b2
